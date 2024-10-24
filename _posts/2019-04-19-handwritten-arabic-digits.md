@@ -6,11 +6,11 @@ categories: [Machine Learning, Deep Learning, CNN]
 tags: [Handwritten Recognition, Arabic Digits, CNN, MADBase]
 author: Khalid Alkhaldi
 image:
-  path: /assets/assets/images/demo.gif
+  path: /assets/assets/images/dataset.png
   alt: Handwritten Arabic Digits
 ---
 
-![Handwritten Arabic Digits]( /assets/images/demo.gif )
+![Handwritten Arabic Digits]( /assets/images/dataset.png )
 
 ### Recognizing Handwritten Arabic Digits with CNN
 
@@ -24,6 +24,8 @@ In this project, I developed a **Convolutional Neural Network (CNN)** model aime
 
 #### The Model: Convolutional Neural Network (CNN)
 I implemented a **CNN** architecture, which is known for its effectiveness in image recognition tasks due to its ability to capture spatial hierarchies in images. The network was designed and optimized to handle the variations and complexities of handwritten Arabic digits, which differ significantly from Latin digits in both form and style.
+
+![Handwritten Arabic Digits]( /assets/images/demo.gif )
 
 #### Key Results
 - The CNN model achieved an **accuracy of 99.35%** on the MADBase testing set, which is a state-of-the-art result among currently published models that utilize this dataset.
