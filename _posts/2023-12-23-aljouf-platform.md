@@ -23,7 +23,7 @@ Enhancing Airport Worker Efficiency and Operations
 
 - **Real-Time Flight Information**: Airport employees, from ground handlers to terminal staff, rely on real-time updates to ensure smooth operations. **[Radar](https://www.jouf.app/radar)** provides instant access to flight schedules and live tracking, allowing staff to manage operations proactively and avoid bottlenecks.
 
-- **Centralized Data for Improved Coordination**: By centralizing all essential flight information—including delays, reschedules, and cancellations—**[Flight Schedules](https://www.jouf.app/weekly-schedule)** eliminates the need for manual cross-checks between different systems. This helps staff stay informed and aligned, improving coordination across departments and reducing response times.
+- **Centralized Data for Improved Coordination**: By centralizing all essential flight information—including delays, reschedules, and cancellations. **[Flight Schedules](https://www.jouf.app/weekly-schedule)** eliminates the need for manual cross-checks between different systems. This helps staff stay informed and aligned, improving coordination across departments and reducing response times.
 
 - **Enhanced Operational Planning**: Managers can use **[Monthly Schedule](https://www.jouf.app/monthly-schedule)** to request full monthly flight schedules. This is particularly useful for planning manpower, scheduling shifts, and analyzing operational data, helping airport management make informed decisions that enhance overall efficiency.
 
@@ -33,11 +33,11 @@ Enhancing Airport Worker Efficiency and Operations
 
 #### **Key Features of Aljouf APP**
 
-1. **Weekly Flight Schedules**: Workers can access up-to-date flight schedules for the entire week. This feature allows for easy navigation through upcoming flights, aiding in day-to-day operational planning.**[Flight Schedules](https://www.jouf.app/weekly-schedule)**.
+1. **Weekly Flight Schedules**: Workers can access up-to-date flight schedules for the entire week. This feature allows for easy navigation through upcoming flights, aiding in day-to-day operational planning. **[Flight Schedules](https://www.jouf.app/weekly-schedule)**.
 
-2. **Monthly Flight Schedules**: Managers and team leaders can request comprehensive monthly flight schedules, including delays, cancellations, and reschedules. This helps with strategic planning, ensuring that resources are allocated effectively.**[Monthly Schedules](https://www.jouf.app/radar)**
+2. **Monthly Flight Schedules**: Managers and team leaders can request comprehensive monthly flight schedules, including delays, cancellations, and reschedules. This helps with strategic planning, ensuring that resources are allocated effectively. **[Monthly Schedules](https://www.jouf.app/radar)**
 
-3. **Daily Flight Tracker (Radar)**: With the real-time flight tracker, airport staff can monitor arrivals and departures as they happen. This ensures that workers are always aware of any sudden changes or disruptions, allowing them to respond promptly.**[Radar](https://www.jouf.app/radar)**
+3. **Daily Flight Tracker (Radar)**: With the real-time flight tracker, airport staff can monitor arrivals and departures as they happen. This ensures that workers are always aware of any sudden changes or disruptions, allowing them to respond promptly. **[Radar](https://www.jouf.app/radar)**
 
 4. **All Services**: Provides an overview of all available services designed to support the smooth operation of the airport, offering everything from flight tracking to essential information services.**[All Services](https://www.jouf.app/services)**
 
