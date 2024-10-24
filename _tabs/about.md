@@ -27,7 +27,7 @@ I am a **SITA Field Engineer** based at **Al Jouf Airport**, where I play a pivo
 
 ### Additional Projects
 
-- **www.jouf.app:** As a personal project, I developed and launched **[www.jouf.app](https://jouf.app)**, a platform created freely for my community in Al Jouf. This project helps residents and airport staff stay updated on flight schedules and provides helpful information about travel and aviation. The success of this project has encouraged me to explore further opportunities in IT and community-based initiatives.
+- **Aljouf Platform** As a personal project, I developed and launched **[www.jouf.app](https://jouf.app)**, a platform created freely for my community in Al Jouf. This project helps residents and airport staff stay updated on flight schedules and provides helpful information about travel and aviation. The success of this project has encouraged me to explore further opportunities in IT and community-based initiatives[read more](https://khamuqbil.github.io/travel%20technology/airport%20operations/efficiency%20tools/community%20projects/2023/12/23/aljouf-platform.html).
 
 - **Trusted Travel:** Developed and managed a system during COVID to assist international passengers with the complex travel requirements of various countries. This system streamlined the process by organizing and preparing all necessary documentation for travelers, ensuring compliance with entry requirements. It helped both passengers and ground handlers by reducing travel complexities and ensuring that all necessary documents were completed and verified before boarding.
 

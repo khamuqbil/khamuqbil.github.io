@@ -10,8 +10,6 @@ image:
   alt: JoufApp
 ---
 
-![Jouf App]( /assets/images/jouf.png )
-
 ### **Aljouf Platform**
 
 In today’s fast-paced aviation environment, efficient and accurate access to information is crucial for airport staff. During my time working as someone involved in aviation world, I recognized the challenges faced by airport employees who needed quick access to real-time flight data, schedules, and operational updates. This information was often scattered across multiple platforms, leading to inefficiencies, miscommunication, and delays.

@@ -10,8 +10,6 @@ image:
   alt: Pneumonia Model
 ---
 
-![Pneumonia Detection Model Process]( /assets/images/xray-header-image-01.png )
-
 ### **Chest X-ray Pneumonia Detection Using a Weighted Classifier**
 
 Pneumonia is a leading cause of mortality, claiming the lives of around 700,000 children each year and affecting 7% of the global population. Early and accurate diagnosis is critical in preventing deaths, and **chest X-rays** are the primary tool used for diagnosis. However, the task of examining chest X-rays is challenging, even for experienced radiologists, leading to a need for improved diagnostic accuracy through machine learning.
