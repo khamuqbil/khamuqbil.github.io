@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chest X-ray Pneumonia Detection Using a Weighted Classifier"
-date: 2024-05-27
+date: 2020-05-27
 categories: [Machine Learning, Deep Learning, CNN]
 tags: [Pneumonia Chest X-ray, Xception, ResNet18, Weighted]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Travel Regulations Tracker: Automating Updates for Ground Handlers"
-date: 2024-10-24
+date: 2021-10-14
 categories: [Travel Technology, Automation, COVID-19 Solutions]
 tags: [COVID-19, Travel Regulations, Automation, Notifications, Compliance, Real-Time Updates]
 ---

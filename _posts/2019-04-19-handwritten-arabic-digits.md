@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recognizing Handwritten Arabic Digits with CNN"
-date: 2024-10-24
+date: 2019-04-19
 categories: [Machine Learning, Deep Learning, CNN]
 tags: [Handwritten Recognition, Arabic Digits, CNN, MADBase]
 ---

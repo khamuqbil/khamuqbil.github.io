@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "JoufApp: Enhancing Airport Worker Efficiency and Operations"
-date: 2024-10-24
+title: "Aljouf Platform"
+date: 2023-12-23
 categories: [Travel Technology, Airport Operations, Efficiency Tools, Community Projects]
 tags: [Airport Operations, Flight Scheduling, Worker Efficiency, Real-Time Updates, Aviation Technology, Community Platform, Travel Information, Al Jouf Airport, Flight Tracker, Airport Management]
 ---
