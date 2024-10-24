@@ -4,6 +4,10 @@ title: "Recognizing Handwritten Arabic Digits with CNN"
 date: 2019-04-19
 categories: [Machine Learning, Deep Learning, CNN]
 tags: [Handwritten Recognition, Arabic Digits, CNN, MADBase]
+author: Khalid Alkhaldi
+image:
+  path: /assets/assets/images/demo.gif
+  alt: Handwritten Arabic Digits
 ---
 
 ![Handwritten Arabic Digits]( /assets/images/demo.gif )

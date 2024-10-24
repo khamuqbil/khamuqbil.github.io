@@ -1,4 +1,4 @@
-# Khalid Almuqbil Portfolio - Chirpy Jekyll
+# Personal Portfolio - Chirpy Jekyll
 
 Welcome to my personal portfolio site built using the **Chirpy Jekyll** theme! This repository hosts my portfolio where I showcase my work as a **Field Engineer** and **Developer**, along with various projects focused on aviation, IT infrastructure, and community-driven solutions.
 
