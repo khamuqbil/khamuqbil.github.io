@@ -6,7 +6,7 @@ categories: [Machine Learning, Deep Learning, CNN]
 tags: [Pneumonia Chest X-ray, Xception, ResNet18, Weighted]
 ---
 
-![Pneumonia Detection Model Process]( /assets/images/xray-deader-image-01.png )
+![Pneumonia Detection Model Process]( /assets/images/xray-header-image-01.png )
 
 ### **Chest X-ray Pneumonia Detection Using a Weighted Classifier**
 
