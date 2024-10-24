@@ -6,7 +6,7 @@ categories: [Machine Learning, Deep Learning, CNN]
 tags: [Handwritten Recognition, Arabic Digits, CNN, MADBase]
 author: Khalid Alkhaldi
 image:
-  path: /assets/assets/images/dataset.png
+  path: /assets/images/dataset.png
   alt: Handwritten Arabic Digits
 ---
 

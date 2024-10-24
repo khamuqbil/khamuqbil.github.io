@@ -6,7 +6,7 @@ categories: [Machine Learning, Deep Learning, CNN]
 tags: [Pneumonia Chest X-ray, Xception, ResNet18, Weighted]
 author: Khalid Alkhaldi
 image:
-  path: /assets/assets/images/xray-header-image-01.png
+  path: /assets/images/xray-header-image-01.png
   alt: Pneumonia Model
 ---
 
