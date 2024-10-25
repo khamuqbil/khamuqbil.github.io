@@ -4,7 +4,6 @@ title: "Aljouf Platform"
 date: 2023-12-23
 categories: [Travel Technology, Airport Operations, Efficiency Tools, Community Projects]
 tags: [Airport Operations, Flight Scheduling, Worker Efficiency, Real-Time Updates, Aviation Technology, Community Platform, Travel Information, Al Jouf Airport, Flight Tracker, Airport Management]
-author: Khalid Alkhaldi
 image:
   path: /assets/images/jouf.png
   alt: JoufApp
