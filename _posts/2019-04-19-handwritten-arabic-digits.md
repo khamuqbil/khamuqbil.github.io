@@ -9,8 +9,6 @@ image:
   alt: Handwritten Arabic Digits
 ---
 
-![Handwritten Arabic Digits]( /assets/images/dataset.png )
-
 ### Recognizing Handwritten Arabic Digits with CNN
 
 The task of recognizing handwritten digits is a well-established and important research area in both **machine learning** and **deep learning**. While significant research efforts have been dedicated to recognizing handwritten digits in the English language (e.g., using the MNIST dataset), **handwritten Arabic digits recognition** has received comparatively less attention.
