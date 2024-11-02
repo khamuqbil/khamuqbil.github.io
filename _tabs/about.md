@@ -38,3 +38,4 @@ My role as a **Field Engineer** requires the ability to work in fast-paced, high
 
 ---
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c4e1a420-693c-45a8-913f-73f694b4c7ac" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
