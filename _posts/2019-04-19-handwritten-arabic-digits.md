@@ -24,6 +24,11 @@ I implemented a **CNN** architecture, which is known for its effectiveness in im
 
 ![Handwritten Arabic Digits]( /assets/images/demo.gif )
 
+
+#### Demo Application
+
+**Live Demo**: [http://arabic-digits-app.qatarcentral.azurecontainer.io](http://arabic-digits-app.qatarcentral.azurecontainer.io)
+
 #### Key Results
 - The CNN model achieved an **accuracy of 99.35%** on the MADBase testing set, which is a state-of-the-art result among currently published models that utilize this dataset.
 - This level of accuracy demonstrates the potential for further applications of deep learning techniques in Arabic handwritten digit recognition.
