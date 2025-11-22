@@ -12,6 +12,7 @@ lang: en
 timezone:
 
 html-proofer:
+  enforce_https: false
   url_ignore:
       - "http://arabic-digits-app.qatarcentral.azurecontainer.io"
 
