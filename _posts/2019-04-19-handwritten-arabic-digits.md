@@ -27,7 +27,7 @@ I implemented a **CNN** architecture, which is known for its effectiveness in im
 
 #### Demo Application
 
-**Live Demo**: [http://arabic-digits-app.qatarcentral.azurecontainer.io](http://arabic-digits-app.qatarcentral.azurecontainer.io)
+**Live Demo**: [http://arabic-digits-app.qatarcentral.azurecontainer.io](Try it here)
 
 #### Key Results
 - The CNN model achieved an **accuracy of 99.35%** on the MADBase testing set, which is a state-of-the-art result among currently published models that utilize this dataset.
